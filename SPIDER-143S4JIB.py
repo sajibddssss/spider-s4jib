@@ -14,7 +14,7 @@ except requests.exceptions.ConnectionError:
 try:
     import requests
 except ImportError:
-    print('\n \033[1;91m[\033[1;93mMAHADI-143\033[1;91m]\033[1;97m installing requests !...\n')
+    print('\n \033[1;91m[\033[1;93mS4JIB-143\033[1;91m]\033[1;97m installing requests !...\n')
     time.sleep(0.5)
     os.system('pip install requests')
 import bs4,json,sys,random,datetime,time,re,subprocess,platform,struct,requests
@@ -210,11 +210,11 @@ def logo():
     print(f"""                   {green}┏━━━━━━━━━━━━━━━━━━━┓{green}
                    {green}┃{white}{faltu}SHEIKH SAJIB{pvt}{green}┃
 {green}╔━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━┳━━━━━┻━━━━━━━━━━━━━━━━━━━╗
-{green}┃{green}╔╦╗{green}╔═╗{rad}╦ ╦{yellow}╔═╗{cyan}╔╦╗{yelloww}╦ {rad}╔═╗╔═╗╔═╗╔═╗╔╦╗{green}┃{purple}CEO {yelloww}: {yellow}SAJIB{green}┃
-{green}┃{green}║║║{green}╠═╣{rad}╠═╣{yellow}╠═╣{cyan} ║║{yelloww}║{yellow}X{white}╚═╗║╣ ╠╣ ╠═╣ ║{green} ┃{purple}CEO {yelloww}: {green}  Sheikh SAJIB       {green}┃
-{green}┃{white}╩ ╩{green}╩ ╩{rad}╩ ╩{yellow}╩ ╩{cyan}═╩╝{yelloww}╩ {rad}╚═╝╚═╝╚  ╩ ╩ ╩ {green}┃{purple}GIT {yelloww}: {cyan}S4JIB-143       {green}┃
+{green}┃{green}╔╦╗{green}╔═╗{green}╦ ╦{green}╔═╗{cyan}╔╦╗{yelloww}╦ {rad}╔═╗╔═╗╔═╗╔═╗╔╦╗{green}┃{purple}CEO {yelloww}: {yellow}SAJIB{green}┃
+{green}┃{green}║║║{green}╠═╣{green}╠═╣{green}╠═╣{cyan} ║║{yelloww}║{yellow}X{white}╚═╗║╣ ╠╣ ╠═╣ ║{green}{purple}CEO {yelloww}: {green}  Sheikh SAJIB       {green}┃
+{green}┃{green}╩ ╩{green}╩ ╩{green}╩ ╩{green}╩ ╩{cyan}═╩╝{yelloww}╩ {rad}╚═╝╚═╝╚  ╩ ╩ ╩ {green}{purple}GIT {yelloww}: {cyan}S4JIB-143       {green}┃
 {green}┣━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┻━━━━━━┳━━━━━━━━━━━━━━━━━━┫
-{green}┃ {green}TOOL : {yelloww}BD RANDOM {green}{green}┃ {green}WP {yelloww}: {blue}+8801984254741{green}┃  {yelloww}VERSION {green}: {rad}0.20  {green}┃
+{green}┃ {green}TOOL : {green}BD RANDOM {green}{green}┃ {green}WP {yelloww}: {blue}+8801984254741{green}┃  {yelloww}VERSION {green}: {rad}0.21  {green}┃
 {green}╚━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━╝""")
 
 def linex():
